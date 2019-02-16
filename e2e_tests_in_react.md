@@ -94,7 +94,6 @@ In your `src` folder, go ahead and create a folder named `__features__`.  In tha
 describe('User visits the site and', () => {
 
   beforeAll(async () => {
-    jest.setTimeout(10000)
     await page.goto(appURL);
   });
 
