@@ -17,11 +17,11 @@ Here comes the trick and your refactoring challenge:
 
 1. The Author is NOT using factories. I would like you to refactor the tests to use Factory Bot.
 
-2. While the author mekes use of the Shoulda gem, the notation used in the tests is `should`. I would like you to refactor that to the more "modern" `is_expected` notation. 
+2. While the author makes use of the Shoulda gem, the notation used in the tests is `should`. I would like you to refactor that to the more "modern" `is_expected` notation. 
 
-3. In the post, the `BiddingEngine` logic is extracted to a `class`. I would argue that we could use a `module` instead. Why? 
+3. In the post, the `BiddingEngine` logic is extracted to a Ruby class. I would argue that we could use a module instead. Why? 
 
-4. Answer the Authors last question: _"What is your preferred way to test models? Do you use BDD in your everyday work? When testing, do you use the red-green-refactor cycle? Feel free to leave a comment below."_
+4. Answer the Authors last question: _"What is your preferred way to test models? Do you use BDD in your everyday work? When testing, do you use the red-green-refactor cycle?"_
 
 5. Finally, what did you learn while working on this challenge? Was it worth your time and effort? Is this kind of challenges relevant to your learning? 
 
