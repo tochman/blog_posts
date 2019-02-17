@@ -29,4 +29,4 @@ Here comes the trick and your refactoring challenge:
 
 Work alone or with a pairing partner. Pairing up for this challenge will help a lot as you can discuss the solutions and research various topics together. **There are no right and wrong solutions in this challenge**. You either do it or you don't. ;-)
 
-We will set up a mob session and discuss the solutions. If you can't take part, please submit your code as a GitHub link (with your thougts outlined in the README)
+We will set up a mob session and discuss the solutions. If you can't take part, please submit your code as a GitHub link (with your thoughts outlined in the README)
